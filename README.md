@@ -1,1 +1,1 @@
-# Game-stone-paper-and-scissor.
+# Game-stone-paper-scissor.
